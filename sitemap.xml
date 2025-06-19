@@ -6,44 +6,47 @@
   </url>
 
   <url>
-    <loc>https://parktimesafaris.netlify.app/tours</loc>
+    <loc>https://parktimesafaris.netlify.app/index.html</loc>
   </url>
 
   <url>
-    <loc>https://parktimesafaris.netlify.app/blog</loc>
+    <loc>https://parktimesafaris.netlify.app/tours.html</loc>
   </url>
 
   <url>
-    <loc>https://parktimesafaris.netlify.app/gallery</loc>
+    <loc>https://parktimesafaris.netlify.app/blog.html</loc>
   </url>
 
   <url>
-    <loc>https://parktimesafaris.netlify.app/contact</loc>
+    <loc>https://parktimesafaris.netlify.app/contact.html</loc>
   </url>
 
-  <!-- Add each blog post manually -->
   <url>
-    <loc>https://parktimesafaris.netlify.app/maasaimara</loc>
-  </url>
-  <url>
-    <loc>https://parktimesafaris.netlify.app/map</loc>
-  </url>
-  <url>
-    <loc>https://parktimesafaris.netlify.app/Mountkenya</loc>
-  </url>
-  <url>
-    <loc>https://parktimesafaris.netlify.app/nairobi</loc>
-  </url>
-  <url>
-    <loc>https://parktimesafaris.netlify.app/northern-kenya</loc>
+    <loc>https://parktimesafaris.netlify.app/gallery.html</loc>
   </url>
 
-
-   <url>
-    <loc>https://parktimesafaris.netlify.app/diani</loc>
-  </url>
   <url>
+    <loc>https://parktimesafaris.netlify.app/map.html</loc>
+  </url>
 
+  <url>
+    <loc>https://parktimesafaris.netlify.app/maasaimara.html</loc>
+  </url>
 
+  <url>
+    <loc>https://parktimesafaris.netlify.app/diani.html</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/Mountkenya.html</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/nairobi.html</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/northern-kenya.html</loc>
+  </url>
 
 </urlset>

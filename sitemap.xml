@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/tours</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/gallery</loc>
+  </url>
+
+  <url>
+    <loc>https://parktimesafaris.netlify.app/contact</loc>
+  </url>
+
+  <!-- Add each blog post manually -->
+  <url>
+    <loc>https://parktimesafaris.netlify.app/maasaimara</loc>
+  </url>
+  <url>
+    <loc>https://parktimesafaris.netlify.app/map</loc>
+  </url>
+  <url>
+    <loc>https://parktimesafaris.netlify.app/Mountkenya</loc>
+  </url>
+  <url>
+    <loc>https://parktimesafaris.netlify.app/nairobi</loc>
+  </url>
+  <url>
+    <loc>https://parktimesafaris.netlify.app/northern-kenya</loc>
+  </url>
+
+
+   <url>
+    <loc>https://parktimesafaris.netlify.app/diani</loc>
+  </url>
+  <url>
+
+
+
+</urlset>

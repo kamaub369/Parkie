@@ -1,0 +1,215 @@
+/* RESET & BASE */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: #fff;
+}
+
+/* 📞 TOP CONTACT BAR */
+.top-contact-bar {
+  background-color: #1b5e20;
+  color: white;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+}
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+.contact-info a {
+  color: white;
+  text-decoration: none;
+}
+.wa-icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+/* 🧭 HEADER */
+.hero-header {
+  background: white;
+  padding: 12px 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo-img {
+  width: 40px;
+  height: auto;
+}
+.site-title {
+  font-size: 1.4rem;
+  color: #1b5e20;
+  font-weight: bold;
+}
+.nav-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.nav-links a {
+  color: #1b5e20;
+  text-decoration: none;
+  font-weight: 500;
+}
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* 📝 BLOG POST */
+.blog-post {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+.blog-post header {
+  text-align: center;
+}
+.blog-post h1 {
+  font-size: 1.6rem;
+  color: #1b5e20;
+  margin-bottom: 1rem;
+}
+.blog-post img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+.blog-post h2 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  color: #1b5e20;
+}
+.blog-post p, .blog-post ul {
+  margin-bottom: 1rem;
+}
+.blog-post ul {
+  padding-left: 1.2rem;
+}
+.blog-post li {
+  margin-bottom: 0.5rem;
+}
+
+/* 🌍 SOCIAL SECTION */
+.social-section {
+  background: #f4fdf6;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+.social-section h2 {
+  color: #1b5e20;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.social-icons img {
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
+  transition: transform 0.3s ease;
+}
+.social-icons img:hover {
+  transform: scale(1.1);
+}
+
+/* 🔚 FOOTER */
+footer {
+  background: #1b5e20;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+
+/* 📱 RESPONSIVE */
+@media (max-width: 768px) {
+  .nav-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+  }
+  .site-title {
+    font-size: 1.2rem;
+  }
+  .blog-post h1 {
+    font-size: 1.4rem;
+  }
+  .blog-post h2 {
+    font-size: 1.1rem;
+  }
+}
+
+
+/* Floating Buttons */
+.floating-whatsapp,
+.floating-skype {
+  position: fixed;
+  z-index: 999;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  background-color: white;
+}
+
+.floating-whatsapp {
+  bottom: 20px;
+  right: 15px;
+}
+
+.floating-skype {
+  bottom: 20px;
+  left: 15px;
+}
+
+.floating-whatsapp img,
+.floating-skype img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  padding: 5px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .floating-whatsapp,
+  .floating-skype {
+    width: 48px;
+    height: 48px;
+  }
+}

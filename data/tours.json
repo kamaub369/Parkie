@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Masai Mara Safari",
+    "image": "images/masai-mara.jpg",
+    "summary": "Experience the Great Migration and the Big Five in Kenya’s most famous reserve.",
+    "link": "blog/maasaimara.html"
+  },
+  {
+    "title": "Mount Kenya Trek",
+    "image": "images/mount-kenya.jpg",
+    "summary": "A challenging adventure to Kenya’s highest mountain and breathtaking views.",
+    "link": "tours/mount-kenya.html"
+  },
+  {
+    "title": "Diani Beach Escape",
+    "image": "images/diani.jpg",
+    "summary": "White sandy beaches, turquoise waters, and tropical relaxation in Diani.",
+    "link": "tours/diani.html"
+  },
+  {
+    "title": "Lake Nakuru Safari",
+    "image": "images/lake-nakuru.jpg",
+    "summary": "Famous for flamingos, rhinos, and panoramic views of the Great Rift Valley.",
+    "link": "tours/lake-nakuru.html"
+  },
+  {
+    "title": "Samburu Cultural Tour",
+    "image": "images/samburu.jpg",
+    "summary": "Immerse yourself in the unique culture and landscapes of Northern Kenya.",
+    "link": "tours/samburu.html"
+  }
+]

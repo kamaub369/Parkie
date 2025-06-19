@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Jane M.",
+    "username": "@jane_travels",
+    "platform": "Instagram",
+    "date": "2025-06-01",
+    "image": "images/lions.jpeg",
+    "content": "Best safari experience ever! Saw lions up close. 🦁",
+    "profilePic": "images/customer 1.PNG"
+  },
+  {
+    "name": "TravelWithBen",
+    "username": "@benonboard",
+    "platform": "Twitter",
+    "date": "2025-05-28",
+    "image": "images/SUNSET.jpeg",
+    "content": "Couldn’t believe how magical the Mara sunset was! #ParktimeTours",
+    "profilePic": "images/customer2.PNG"
+  },
+  {
+    "name": "WanderLust Diaries",
+    "username": "@wanderlustdiaries",
+    "platform": "Facebook",
+    "date": "2025-05-20",
+    "image": "images/group.jpeg",
+    "content": "10/10 would recommend the trip planner tool. Made our group travel so smooth!",
+    "profilePic": "images/customer3.PNG"
+  },
+  {
+    "username": "SafariKenya",
+    "profilePic": "images/profiles/user1.jpg",
+    "content": "Just had the most magical sunset game drive in Maasai Mara! 🦁🌅 #MagicalKenya",
+    "image": "images/social/mara-sunset.jpg"
+  },
+  {
+    "username": "BeachBumDiani",
+    "profilePic": "images/profiles/user2.jpg",
+    "content": "Turquoise waters and white sands – Diani never disappoints! 🌊🏖️ #DianiVibes",
+    "image": "images/social/diani-beach.jpg"
+  },
+  {
+    "username": "UrbanExplorer",
+    "profilePic": "images/profiles/user3.jpg",
+    "content": "Where else can you see a lion with skyscrapers in the background? Nairobi National Park is wild! 🦓🏙️",
+    "image": "images/social/nairobi-park.jpg"
+  },
+  {
+    "username": "Hiker254",
+    "profilePic": "images/profiles/user4.jpg",
+    "content": "Finally conquered Mount Kenya! The view from Point Lenana is unreal 🏔️🇰🇪 #MountKenya",
+    "image": "images/social/mount-kenya.jpg"
+  },
+  {
+    "username": "LakeLife",
+    "profilePic": "images/profiles/user5.jpg",
+    "content": "Boating at Lake Naivasha with the hippos and birds. Pure bliss. 🚤🦢",
+    "image": "images/social/naivasha.jpg"
+  },
+  {
+    "username": "CultureJunkie",
+    "profilePic": "images/profiles/user6.jpg",
+    "content": "The Samburu people have such vibrant traditions. Felt honored to be part of their dance. 🎶🩰",
+    "image": "images/social/samburu-dance.jpg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/mara.jpeg",
+    "caption": "Masai Mara National Reserve"
+  },
+  {
+    "image": "images/dianibeach.jpeg",
+    "caption": "Diani Beach, Coast"
+  },
+  {
+    "image": "images/mt-kenya.jpg",
+    "caption": "Mount Kenya Hike"
+  },
+  {
+    "image": "images/lakenaivasha.jpg",
+    "caption": "Lake Naivasha Safari"
+  },
+  {
+    "image": "images/amboseli.jpeg",
+    "caption": "Amboseli with Mt. Kilimanjaro View"
+  }
+]

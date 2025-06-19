@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice",
+    "rating": 5,
+    "comment": "Absolutely amazing! The guides were great.",
+    "date": "2025-06-05"
+  },
+  {
+    "name": "Brian",
+    "rating": 4,
+    "comment": "Saw so much wildlife. Would book again!",
+    "date": "2025-06-03"
+  }
+]

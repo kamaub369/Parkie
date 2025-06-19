@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Discover the Magic of Maasai Mara: Kenya’s Ultimate Safari Destination",
+    "image": "images/mara-tour.jpeg",
+    "excerpt": "From the Great Migration to the Big Five, discover what makes Masai Mara Kenya’s crown jewel.",
+    "link": "maasaimara.html"
+  },
+  {
+    "title": "A Beach Lover’s Guide to Diani",
+    "image": "images/dianibeach.jpeg",
+    "excerpt": "Planning a coastal escape? Here’s everything you need to know about Diani Beach.",
+    "link": "diani.html"
+  },
+  {
+    "title": "Hiking Mount Kenya: What You Need to Know",
+    "image": "images/mt-kenya.jpg",
+    "excerpt": "A thrilling experience with jaw-dropping views. Here’s how to prepare for your hike.",
+    "link": "Mountkenya.html"
+  },
+  {
+    "title": "Cultural Gems of Northern Kenya",
+    "image": "images/Samburu-tribe.jpg",
+    "excerpt": "Explore the rich traditions and communities of Samburu, Turkana, and Marsabit.",
+    "link": "northern-kenya.html"
+  },
+  {
+    "title": "Nairobi National Park",
+    "image": "images/nairobi.jpeg",
+    "excerpt": "Where else can you spot lions with skyscrapers in the background? Wildlife at the Heart of the City.",
+    "link": "nairobi.html"
+  }
+]
